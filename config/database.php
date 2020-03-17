@@ -6,7 +6,10 @@ $PORT               ='3306';
 $DATABASE           ='example';
 $PASSWORD           ='';
 
+$HOST_EMAIL         ='';
+$PORT_EMAIL         ='';
 $SMTP_EMAIL         ='';
-$ADRRES             ='';
+$USERNAME_EMAIL     ='';
 $EMAILPASSWORD      ='';
+$SMTP_SECURE        ='';
 

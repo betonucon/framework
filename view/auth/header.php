@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="robots" content="noindex, nofollow">
 
-    <title>Login Form - Bootsnipp.com</title>
+    <title>BackNative</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="<?php echo url_page(); ?>auth/css/app.css">
     <script type="text/javascript" src="<?php echo url_page(); ?>/js/jquery-1.3.2.min.js"></script>
@@ -57,7 +57,7 @@
    
 <nav class="navbar navbar-expand-lg navbar-light navbar-laravel">
     <div class="container">
-        <a class="navbar-brand" href="#">Laravel</a>
+        <a class="navbar-brand" href="#">BackNative</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>

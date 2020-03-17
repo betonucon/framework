@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<title>Magic Admin. Advanced, Beautiful and Customizable Admin Template.</title>
+		<title>BackNative</title>
        
         <!-- CSS Reset -->
 		<link rel="stylesheet" type="text/css" href="<?php echo url_page(); ?>/css/reset.css"  media="screen" />

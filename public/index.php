@@ -8,6 +8,10 @@
     require __DIR__.'/../config/koneksi.php';
     //------------End Configurasi Koneksi ----------------------------------------//
 
+    //------------Plugin ----------------------------------------------------//
+    require __DIR__.'/../config/plugin.php';
+    //------------End Plugin  ------------------------------------------------//
+
     //------------Configurasi Aplication ----------------------------------------//
     require __DIR__.'/../config/config.php';
     //------------End Configurasi Aplication ----------------------------------------//
