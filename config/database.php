@@ -3,7 +3,7 @@
 $HOST               ='localhost';
 $USERNAME           ='root';
 $PORT               ='3306';
-$DATABASE           ='laravel';
+$DATABASE           ='example';
 $PASSWORD           ='';
 
 $SMTP_EMAIL         ='';

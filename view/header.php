@@ -135,8 +135,8 @@
                         <div id="logo">
                             <ul id="nav">
                                 <li id="current"><a href="">Home</a></li>
-                                <li><a href="<?php echo url_page(); ?>index.php?page=form">Form</a></li>
-                                <li><a href="<?php echo url_page(); ?>index.php?page=table">Table</a></li>
+                                <li><a href="<?php echo url_page(); ?>index?page=form">Form</a></li>
+                                <li><a href="<?php echo url_page(); ?>index?page=table">Table</a></li>
                             </ul>
                         </div><!-- End. #Logo -->
                     </div><!-- End. .grid_12-->

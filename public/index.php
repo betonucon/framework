@@ -1,4 +1,9 @@
 <?php
+    error_reporting(0);
+    //------------Configurasi Koneksi ----------------------------------------//
+        require __DIR__.'/../config/session.php';
+    //------------End Configurasi Koneksi ----------------------------------------//
+
     //------------Configurasi Koneksi ----------------------------------------//
     require __DIR__.'/../config/koneksi.php';
     //------------End Configurasi Koneksi ----------------------------------------//
